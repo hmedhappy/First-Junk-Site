@@ -1,0 +1,44 @@
+nav.menu-nav ul {
+	background-color: black;
+	padding-left: 200px ;
+}
+nav.menu-nav2 ul {
+	background-color: black;
+	
+}
+
+
+
+
+
+nav.menu-nav ul li.btn {
+display: inline-block;
+list-style-type: none;
+padding: 20px ; 
+
+
+
+
+
+
+	}
+	nav.menu-nav ul li.btn a {
+		color: white ;
+		text-decoration: none;
+		font-size: 30px ;
+		padding: 20px ;
+		margin: 30px ;
+	}
+	nav.menu-nav ul li.btn:hover a{
+		color: black ;
+		background-color: white ;
+
+	}
+	nav.menu-nav2 ul li.btn2 a {
+		color: white ;
+		text-decoration: none;
+		font-size: 30px ;
+		padding: 0px ;
+		margin: 0px ;
+		shape-margin: 50px ;
+	}
